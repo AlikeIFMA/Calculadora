@@ -10,7 +10,7 @@ function geo () {
         if (qtd_lado <3) {
             classificacao = 'Não existe uma forma geométrica com essa quantidade de lados!';
         }else if (qtd_lado == 3){
-            classificacao = 'Este é um Triângulo!';
+            classificacao = 'Este é um Triângulo !';
         }else if (qtd_lado == 4) {
             classificacao = 'Este é um Quadrado!';
         }else if (qtd_lado == 5){
